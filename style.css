@@ -1,0 +1,14 @@
+body {
+	background-image: url(https://www.hdwallpapers.in/download/alberta_canadian_fir_tree_and_mountain_with_snow_during_sunset_4k_hd_nature-3840x2160.jpg)
+}
+
+h1 {
+	text-align: center;
+}
+
+.container {
+    text-align: center;
+    background-color:lightsteelblue;
+    padding: 130px;
+    border-radius: 25px;
+}
